@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614356969 source:c:\users\athil\desktop\programação\codeblocks2\l1_4 raiocirc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

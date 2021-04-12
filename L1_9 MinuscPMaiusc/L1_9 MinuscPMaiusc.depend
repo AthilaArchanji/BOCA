@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614360227 source:c:\users\athil\desktop\programação\codeblocks2\l1_9 minuscpmaiusc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

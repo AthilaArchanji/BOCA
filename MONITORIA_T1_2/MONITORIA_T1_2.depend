@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614196248 source:c:\users\athil\desktop\programação\codeblocks2\monitoria_t1_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
